@@ -1,0 +1,25 @@
+/* sa c'est pour insérer l'image de fond de l'arrière plan */
+
+body{
+    background-image: url("ACCEUILLE.jpg");
+    background-repeat: no-repeat;
+    
+    background-attachment:scroll;
+   background-size: 1015px;
+    
+}
+body{
+    background-color:cornflowerblue;
+
+}
+
+img{
+    float: right;
+    width: 150px;
+    padding: 5px;
+
+}
+.from_1{
+    font-size: 30px;
+   text-align: center;
+}
